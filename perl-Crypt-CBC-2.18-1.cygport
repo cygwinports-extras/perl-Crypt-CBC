@@ -1,0 +1,6 @@
+CPAN_AUTHOR=lds
+inherit perl
+
+USE_MANAGED_MOUNT=1
+
+DOCS+=" README.compatibility"
